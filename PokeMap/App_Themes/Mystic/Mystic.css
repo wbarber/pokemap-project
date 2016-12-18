@@ -1,0 +1,17 @@
+﻿body {
+    background-image: url('../../images/Themes/mysticBackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar-header {
+    background-color:#C2D0DB;
+    width: 100%;
+    opacity: 0.7;
+}
+
+.col-xs-3{
+    opacity:0.8;
+}

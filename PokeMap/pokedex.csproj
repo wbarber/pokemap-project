@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2FDE19A3-7616-4BC6-8229-79C4D39B38A9}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\main.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="images\001.png" />
+    <Content Include="images\002.png" />
+    <Content Include="images\003.png" />
+    <Content Include="images\004.png" />
+    <Content Include="images\005.png" />
+    <Content Include="images\006.png" />
+    <Content Include="images\007.png" />
+    <Content Include="images\008.png" />
+    <Content Include="images\009.png" />
+    <Content Include="images\010.png" />
+    <Content Include="images\011.png" />
+    <Content Include="images\012.png" />
+    <Content Include="images\013.png" />
+    <Content Include="images\014.png" />
+    <Content Include="images\015.png" />
+    <Content Include="images\016.png" />
+    <Content Include="images\017.png" />
+    <Content Include="images\018.png" />
+    <Content Include="images\019.png" />
+    <Content Include="images\020.png" />
+    <Content Include="images\021.png" />
+    <Content Include="images\022.png" />
+    <Content Include="images\023.png" />
+    <Content Include="images\024.png" />
+    <Content Include="images\025.png" />
+    <Content Include="images\026.png" />
+    <Content Include="images\027.png" />
+    <Content Include="images\028.png" />
+    <Content Include="images\029.png" />
+    <Content Include="images\030.png" />
+    <Content Include="images\031.png" />
+    <Content Include="images\032.png" />
+    <Content Include="images\033.png" />
+    <Content Include="images\034.png" />
+    <Content Include="images\035.png" />
+    <Content Include="images\036.png" />
+    <Content Include="images\037.png" />
+    <Content Include="images\038.png" />
+    <Content Include="images\039.png" />
+    <Content Include="images\040.png" />
+    <Content Include="images\041.png" />
+    <Content Include="images\042.png" />
+    <Content Include="images\043.png" />
+    <Content Include="images\044.png" />
+    <Content Include="images\045.png" />
+    <Content Include="images\046.png" />
+    <Content Include="images\047.png" />
+    <Content Include="images\048.png" />
+    <Content Include="images\049.png" />
+    <Content Include="images\050.png" />
+    <Content Include="images\051.png" />
+    <Content Include="images\052.png" />
+    <Content Include="images\053.png" />
+    <Content Include="images\054.png" />
+    <Content Include="images\055.png" />
+    <Content Include="images\056.png" />
+    <Content Include="images\057.png" />
+    <Content Include="images\058.png" />
+    <Content Include="images\059.png" />
+    <Content Include="images\060.png" />
+    <Content Include="images\061.png" />
+    <Content Include="images\062.png" />
+    <Content Include="images\063.png" />
+    <Content Include="images\064.png" />
+    <Content Include="images\065.png" />
+    <Content Include="images\066.png" />
+    <Content Include="images\067.png" />
+    <Content Include="images\068.png" />
+    <Content Include="images\069.png" />
+    <Content Include="images\070.png" />
+    <Content Include="images\071.png" />
+    <Content Include="images\072.png" />
+    <Content Include="images\073.png" />
+    <Content Include="images\074.png" />
+    <Content Include="images\075.png" />
+    <Content Include="images\076.png" />
+    <Content Include="images\077.png" />
+    <Content Include="images\078.png" />
+    <Content Include="images\079.png" />
+    <Content Include="images\080.png" />
+    <Content Include="images\081.png" />
+    <Content Include="images\082.png" />
+    <Content Include="images\083.png" />
+    <Content Include="images\084.png" />
+    <Content Include="images\085.png" />
+    <Content Include="images\086.png" />
+    <Content Include="images\087.png" />
+    <Content Include="images\088.png" />
+    <Content Include="images\089.png" />
+    <Content Include="images\090.png" />
+    <Content Include="images\091.png" />
+    <Content Include="images\092.png" />
+    <Content Include="images\093.png" />
+    <Content Include="images\094.png" />
+    <Content Include="images\095.png" />
+    <Content Include="images\096.png" />
+    <Content Include="images\097.png" />
+    <Content Include="images\098.png" />
+    <Content Include="images\099.png" />
+    <Content Include="images\100.png" />
+    <Content Include="images\101.png" />
+    <Content Include="images\102.png" />
+    <Content Include="images\103.png" />
+    <Content Include="images\104.png" />
+    <Content Include="images\105.png" />
+    <Content Include="images\106.png" />
+    <Content Include="images\107.png" />
+    <Content Include="images\108.png" />
+    <Content Include="images\109.png" />
+    <Content Include="images\110.png" />
+    <Content Include="images\111.png" />
+    <Content Include="images\112.png" />
+    <Content Include="images\113.png" />
+    <Content Include="images\114.png" />
+    <Content Include="images\115.png" />
+    <Content Include="images\116.png" />
+    <Content Include="images\117.png" />
+    <Content Include="images\118.png" />
+    <Content Include="images\119.png" />
+    <Content Include="images\120.png" />
+    <Content Include="images\121.png" />
+    <Content Include="images\122.png" />
+    <Content Include="images\123.png" />
+    <Content Include="images\124.png" />
+    <Content Include="images\125.png" />
+    <Content Include="images\126.png" />
+    <Content Include="images\127.png" />
+    <Content Include="images\128.png" />
+    <Content Include="images\129.png" />
+    <Content Include="images\130.png" />
+    <Content Include="images\131.png" />
+    <Content Include="images\132.png" />
+    <Content Include="images\133.png" />
+    <Content Include="images\134.png" />
+    <Content Include="images\135.png" />
+    <Content Include="images\136.png" />
+    <Content Include="images\137.png" />
+    <Content Include="images\138.png" />
+    <Content Include="images\139.png" />
+    <Content Include="images\140.png" />
+    <Content Include="images\141.png" />
+    <Content Include="images\142.png" />
+    <Content Include="images\143.png" />
+    <Content Include="images\144.png" />
+    <Content Include="images\145.png" />
+    <Content Include="images\146.png" />
+    <Content Include="images\147.png" />
+    <Content Include="images\148.png" />
+    <Content Include="images\149.png" />
+    <Content Include="images\150.png" />
+    <Content Include="images\151.png" />
+    <Content Include="images\pokelogo.png" />
+    <Content Include="packages.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Web.config" />
+    <Content Include="Pokedex.aspx" />
+    <Content Include="Scripts\jquery-1.9.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pokedex.aspx.cs">
+      <DependentUpon>Pokedex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pokedex.aspx.designer.cs">
+      <DependentUpon>Pokedex.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55081</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:55081/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

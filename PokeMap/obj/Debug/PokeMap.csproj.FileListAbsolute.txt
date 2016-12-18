@@ -1,0 +1,99 @@
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\ApplicationInsights.config
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\csc.exe
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\vbc.exe
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\VBCSCompiler.exe
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\PokeMap.dll.config
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\PokeMap.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\PokeMap.pdb
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.Web.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.WindowsServer.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.ApplicationInsights.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.Web.xml
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.AI.WindowsServer.xml
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.ApplicationInsights.xml
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\obj\Debug\PokeMap.csprojResolveAssemblyReference.cache
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\obj\Debug\PokeMap.dll
+c:\users\joey\documents\visual studio 2015\Projects\PokeMap\PokeMap\obj\Debug\PokeMap.pdb
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\ApplicationInsights.config
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\csc.exe
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\vbc.exe
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\PokeMap.dll.config
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\PokeMap.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\PokeMap.pdb
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.Web.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.Web.xml
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\obj\Debug\PokeMap.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\obj\Debug\PokeMap.dll
+C:\Users\Joey\Desktop\PokeMap Project\PokeMap\PokeMap\PokeMap\obj\Debug\PokeMap.pdb
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\ApplicationInsights.config
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\csc.exe
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\vbc.exe
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\PokeMap.dll.config
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\PokeMap.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\PokeMap.pdb
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.Web.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.Web.xml
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\obj\Debug\PokeMap.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\obj\Debug\PokeMap.dll
+C:\Users\Joey\Documents\GitHub\PokeMap\PokeMap\obj\Debug\PokeMap.pdb
